@@ -1,0 +1,5 @@
+time	realtime	Program		Program;	Washer	Select	Program1;	Program2;	Program3;	Program4;	Program5;	Program6;	Program7;	Program8;	Program9;
+1900-01-01 01:00:00.000 01:00:00	0	30	14	23	0	11	99	22	44
+1900-01-01 01:00:01.000 01:00:01	0	30	14	23	0	11	99	22	44
+1900-01-01 01:00:02.000 01:00:02	0	30	14	23	0	11	99	22	44
+1900-01-01 01:00:03.000 01:00:03	0	30	14	23	0	11	99	22	44	D:D:

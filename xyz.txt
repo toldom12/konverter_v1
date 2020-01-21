@@ -1,0 +1,20 @@
+;>>>>>> Start scan at Mon Jan 01 01:00:00 1900
+; 1.(time-StartTime)/ sec
+; 2.Adr: $00000700 A: Program; D:
+; 3.Adr: $00000700 A: Washer State; D:
+; 4.Adr: $00000700 A: Select Temp; D:
+; 5.Adr: $00000700 A: Program1; D:
+; 6.Adr: $00000700 A: Program2; D:
+; 7.Adr: $00000700 A: Program3; D:
+; 8.Adr: $00000700 A: Program4; D:
+; 9.Adr: $00000700 A: Program5; D:
+; 10.Adr: $00000700 A: Program6; D:
+; 11.Adr: $00000700 A: Program7; D:
+; 12.Adr: $00000700 A: Program8; D:
+; 13.Adr: $00000700 A: Program9; D:
+;<<<< 26 Data columns
+;          #1             #2                 #3             #4           #5             #6           #7          #8              a     #9
+            0             30                 14             23           0              11           99          22                     44   
+	    0             30                 14             23           0              11           99          22                     44   
+	   0             30                 14             23           0              11           99          22                     44
+	   0             30                 14             23           0              11           99          22                     44   D:D:
